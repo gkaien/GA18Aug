@@ -1,0 +1,18 @@
+Background
+
+The file ElecmartSales.xlsx contains data on 400 customer orders during a period of several months for the Elecmart company. 
+ 
+There are several categorical variables and several numerical variables. The manager of Elecmart is interested to understand the buying patterns of his customers. You have been assigned to help her achieve that. 
+
+Please help the manager with the following questions:
+1.	During which Time of the day do customers spend the most (based on Total Cost)?
+2.	Do male customers spend more than females (based on Total Cost)?
+3.	Which Region brought in the highest revenue (based on Total Cost) for ElecMart?
+4.	Is the ElecMart card more popular among female or male customers?
+5.	Which Day of the week brought in the highest revenue for ElecMart?
+6.	Among ElecMart card-holders, which Region brought in the highest revenue?
+7.	Which Region has the greatest number of female customers?
+8.	Female customers prefer to place orders at ElecMart in the morning. True or False?
+9.	Male customers prefer to place orders in the evening. True or False?
+10.	How many of the orders were placed by females in the South region?
+
